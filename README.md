@@ -1,5 +1,5 @@
 # MultiAgent-Clinical-AI-Symptom-Checker
-# Multi-Agent Clinical AI Assistant & Symptom Checker 🏥🤖
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/Framework-LangChain-green)](https://github.com/langchain-ai/langchain)
